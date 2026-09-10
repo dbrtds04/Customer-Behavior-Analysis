@@ -431,6 +431,8 @@ An interactive **Power BI dashboard** was built to present the insights visually
 
 The dashboard provides a visual representation of the customer shopping behavior and the results obtained from the analysis.
 
+![](images/dashboard.png)
+
 ---
 
 ## 💡 Business Recommendations
